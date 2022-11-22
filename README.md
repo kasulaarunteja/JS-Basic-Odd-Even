@@ -4,9 +4,6 @@
 
 ## Maximum Marks - 10
 
-- The Submission should not contain spaces, for example /js-101 folder/eval will not work
-- Do not push node_modules and package_lock.json to github
-
 ```
  ✅ able to submit the app - 1 mark ( minimum score )
  ✅ Random number is getting generated and visible on DOM at click of the button - 3 marks
